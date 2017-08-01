@@ -1,5 +1,10 @@
 import io
-port1 = 11114	
+
+f = io.StringIO()
+print f
+f = open("6.xml", "w+")
+print f
+	
 
 
 
@@ -14,12 +19,6 @@ b = [[0,0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,0],[0,0,0,0,
 
 def omar () :
 	
-	f = io.StringIO()
-	print f
-	f = open("6.xml", "w+")
-	print f
-
-		
 	matrix=["rice","green beans rice","sea food rice","maxican rice","chicken","veal","italian chicken","italian beaf","maxican beaf","green salad","pure caeser","italian salad","crispy chicken salad","sea food salad","hot dog pizza","cheese pizza","anchoive pizza","hawaian pizza","veggie pizza","classic onion soup","sweet corn soup","mashrom soup","cream chicken soup","beaf soup","mashed potato","special fries","corn on the cob","bread","water","strawberry","chocolate milkshake","red bean","grean bean","mango","coffee","tea","ice tea","kiwi","ice coffee","express coffee","apple tea","mango tea","strawperry tea","turky coffee","french coffee","chocolate cake","ice cream","cream caramel","cheese cake","brownie cake"]
 	price = [10,52,21,12,66,55,5,5,2,2]
 
@@ -27,6 +26,9 @@ def omar () :
 	print b[0][1]
 	print b[0][0]
 	print len(matrix)
+	x = input("omar")
+
+	x = input("omar")
 
 	f.write('<data>\n')
 	f.write('\t<ip>\n')
@@ -75,7 +77,7 @@ print "jjkj"
 s=socket.socket()
 print "jjkj"
 #host = socket.gethostname()
-
+port1 = 11112
 y=[0,0,0,0,0,0,0,0,0,0]
 
 s.bind(("" , port1))
@@ -96,12 +98,10 @@ while i < 6 :
 	c,addr = s.accept()     # Establish connection with client.
 	
 	y =c.recv(1024);
-	print addr
-	print y
-	x=input("omar")
+	
 	print y
 	try :
-		while (y2<=300):
+		while (y2<=200):
 			print " y2 = " , y2 , " y[y2] = " , y[y2]
 			if y[y2]==',' :
 				while y1<y2 :
@@ -130,8 +130,6 @@ while i < 6 :
 		print " done "
 	
 	print mat
-	print y5
-	x = input("omar")
 	print "omar 1"
 	print b[0][0]
 	print "omar 2"
@@ -154,13 +152,14 @@ while i < 6 :
 	x=input("omar12")
 	
 	x=input("sdasd1233")
-	print " price = " , mat[50] 
+	c.send("1")
+	y =c.recv(1024);
+	print " price = " , y 
 	
 	print " Rice  number = ",mat[0]," price = " , mat[0]*8
 	x = input("omar")
 
 	x=int(x) 
-	print "end"
 	if x==1 :
 		print "jjkj"
                 print "recieve 1"

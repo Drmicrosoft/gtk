@@ -24,28 +24,28 @@
 		<y number = "10" price = "2"></y>
 	</table>
 	<menu>
-		<z order = "rice" t1 = "1" t2 = "2" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
-		<z order = "green beans rice" t1 = "1" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
+		<z order = "rice" t1 = "4" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
+		<z order = "green beans rice" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
 		<z order = "sea food rice" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
 		<z order = "maxican rice" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
 		<z order = "chicken" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
-		<z order = "veal" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
+		<z order = "veal" t1 = "4" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
 		<z order = "italian chicken" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
 		<z order = "italian beaf" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
 		<z order = "maxican beaf" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
 		<z order = "green salad" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
-		<z order = "pure caeser" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
-		<z order = "italian salad" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
+		<z order = "pure caeser" t1 = "3" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
+		<z order = "italian salad" t1 = "4" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
 		<z order = "crispy chicken salad" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
 		<z order = "sea food salad" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
 		<z order = "hot dog pizza" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
-		<z order = "cheese pizza" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
-		<z order = "anchoive pizza" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
+		<z order = "cheese pizza" t1 = "3" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
+		<z order = "anchoive pizza" t1 = "3" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
 		<z order = "hawaian pizza" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
 		<z order = "veggie pizza" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
 		<z order = "classic onion soup" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
-		<z order = "sweet corn soup" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
-		<z order = "mashrom soup" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
+		<z order = "sweet corn soup" t1 = "3" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
+		<z order = "mashrom soup" t1 = "3" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
 		<z order = "cream chicken soup" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
 		<z order = "beaf soup" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
 		<z order = "mashed potato" t1 = "0" t2 = "0" t3 = "0" t4 = "0" t5 = "0" t6 = "0" t7 = "0" t8 = "0" t9 = "0" t10 = "0" ></z>
