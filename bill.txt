@@ -1,0 +1,18 @@
+rice = 2 
+green beans rice = 3 
+sea food rice = 3 
+maxican rice = 2 
+crispy chicken salad = 3 
+cheese pizza = 3 
+anchoive pizza = 4 
+hawaian pizza = 3 
+classic onion soup = 3 
+sweet corn soup = 3 
+strawberry = 3 
+chocolate milkshake = 2 
+ice tea = 3 
+kiwi = 4 
+mango tea = 4 
+turky coffee = 3 
+---------------------------------------------
+price = 1257 
